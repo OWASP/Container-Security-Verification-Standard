@@ -19,7 +19,7 @@ The current version is only a draft but we hope to move fast towards a version 1
 2. **If it's somewhat related to the OWASP ASVS project why not make the CSVS an OWASP project too?**
   That's exactly what we plan to do. Once we've gathered some feedback and have a first version we're looking forward to donate the CSVS in full to OWASP.
 3. **Topic XYZ is missing. Why?**
-  Either it didn't cross our minds yet or we thought it is already covered in one of the requirements already in the CSVS. Anyway, please let us know about this (csvs@redguard.ch) so we can add it or even better fork the CSVS and send us a pull request with your changes.
+  Either it didn't cross our minds yet or we thought it is already covered in one of the requirements in the CSVS. Anyway, please let us know (either [open an issue](https://github.com/redguard/csvs/issues/new) or drop us a message at csvs@redguard.ch) or even better fork the CSVS and send us a pull request with your changes.
 4. **There are already other documents that cover container security like the [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/) or [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf). Why do we need the CSVS?**
   Existing documents often contain more than 100 pages or are using a lot of running text. We think there should be a clear standard that allows you to go through and actually verify your level of security related to container solutions.
 5. **Is there any referencing from the CSVS to other standards and vice-versa?**
