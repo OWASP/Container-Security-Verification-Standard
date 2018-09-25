@@ -4,8 +4,8 @@ Welcome to the Container Security Verification Standard (CSVS) version 0.1. The 
 
 ## Download
 
-* [Word document](#TODO)
-* [PDF document](#TODO)
+* [Word document](https://github.com/Redguard/csvs/releases/download/v0.1/container_security_verification_standard_v0.1_en.docx)
+* [PDF document](https://github.com/Redguard/csvs/releases/download/v0.1/container_security_verification_standard_v0.1_en.pdf)
 * [Source code](https://github.com/redguard/csvs)
 
 ## Contributing
