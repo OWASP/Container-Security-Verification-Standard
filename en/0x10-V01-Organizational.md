@@ -14,6 +14,7 @@ Please note that the requirements in this section are non-exhaustive as many org
 | --- | --- | --- | --- | -- | -- |
 | **1.1** | Verify that technical employees (especially the ones tasked with DevOps like activities and architects) receive regular training on security aspects of the technologies they use. | ✓ | ✓ | ✓ | 1.0 |
 | **1.2** | Verify that managers receive regular training on security aspects of the technologies used in their projects. |  |  | ✓ | 1.0 |
-| **1.3** | Verify that all handled data is classified based on internal classification standards. | ✓ | ✓ | ✓ | 1.0 |
-| **1.4** | Verify that each service/application (can consist of multiple containers) has a security concept. |  | ✓ | ✓ | 1.0 |
-| **1.5** | Verify that identified security risks and vulnerabilities are promptly eliminated (or an exception is granted) and centrally managed according to a predefined process. |  | ✓ | ✓ | 1.0 |
+| **1.3** | Verify that all handled data is classified based on internal data classification standards. | ✓ | ✓ | ✓ | 1.0 |
+| **1.4** | Verify that each service/application (can consist of multiple containers) has a security concept which provides information on the security needs of the service/application and how they are or will be addressed. |  | ✓ | ✓ | 1.0 |
+| **1.5** | Verify that identified security risks and vulnerabilities are promptly eliminated (or an exception is granted) and centrally managed according to a predefined risk and vulnerability management process. |  | ✓ | ✓ | 1.0 |
+| **1.6** | Verify the roles and responsibilities concerning the container infrastructure are defined. This includes e.g. who approves connectivity or decides on allowed base images. |  | ✓ | ✓ | 1.0 |

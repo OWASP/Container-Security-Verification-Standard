@@ -1,16 +1,16 @@
 # Container Security Verification Standard
 
-Welcome to the Container Security Verification Standard (CSVS) version 0.1. The CSVS is a community-effort to establish a framework of security requirements and controls that focus on normalizing the functional and non-functional security controls required when designing, developing and testing container-based solutions with a focus on Docker.
+Welcome to the Container Security Verification Standard (CSVS) version 1.0. The CSVS is a community-effort to establish a framework of security requirements and controls that focus on normalizing the functional and non-functional security controls required when designing, developing and testing container-based solutions with a focus on Docker.
 
 ## Download
 
-* [Word document](https://github.com/Redguard/csvs/releases/download/v0.1/container_security_verification_standard_v0.1_en.docx)
-* [PDF document](https://github.com/Redguard/csvs/releases/download/v0.1/container_security_verification_standard_v0.1_en.pdf)
+* [Word document](https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.docx)
+* [PDF document](https://github.com/Redguard/csvs/releases/download/v1.0/container_security_verification_standard_v1.0_en.pdf)
 * [Source code](https://github.com/redguard/csvs)
 
 ## Contributing
 
-The current version is only a draft but we hope to move fast towards a version 1.0. We're always looking for people who are willing to review and extend the CSVS. If you feel like you could be one of them, please either just create a pull request with your changes or send us your input in whatever form is most convenient for you to csvs@redguard.ch.
+We're always looking for people who are willing to review and extend the CSVS. If you feel like you could be one of them, please either just create a pull request with your changes or send us your input in whatever form is most convenient for you to csvs@redguard.ch.
 
 ## FAQ
 
@@ -23,4 +23,4 @@ The current version is only a draft but we hope to move fast towards a version 1
 4. **There are already other documents that cover container security like the [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/) or [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf). Why do we need the CSVS?**
   Existing documents often contain more than 100 pages or are using a lot of running text. We think there should be a clear standard that allows you to go through and actually verify your level of security related to container solutions.
 5. **Is there any referencing from the CSVS to other standards and vice-versa?**
-  Unfortunately not yet, mainly as the current release is only a draft which might change a lot till its final 1.0 release. But we made sure to cover at least the [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/) and [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf).
+  Unfortunately not yet, but we made sure to cover at least the [CIS Docker Benchmark](https://www.cisecurity.org/benchmark/docker/) and [NIST Application Container Security Guide](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-190.pdf).

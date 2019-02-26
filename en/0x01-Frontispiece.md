@@ -8,13 +8,13 @@ The Container Security Verification Standard is a list of security requirements 
 
 ![license](../images/license.png)
 
-Copyright © 2018 Redguard AG. This document is released under the Creative Commons Attribution ShareAlike 4.0 license. For any reuse or distribution, you must make clear to others the license terms of this work.
+Copyright © 2019 Redguard AG. This document is released under the Creative Commons Attribution ShareAlike 4.0 license. For any reuse or distribution, you must make clear to others the license terms of this work.
 
 The code used to build the CSVS document and structure is based on the OWASP ASVS project.
 
-## Draft Version
+## Contribution
 
-This is a draft version of the standard, and as such should not be used until released. If you find any issues within the standard that should be addressed:
+If you find any issues within the standard that should be addressed:
 
 * Design of the standard.
 * Missing controls.
@@ -28,4 +28,4 @@ Please log an issue here: https://github.com/redguard/CSVS/issues
 
 | Lead Authors | Contributors & Reviewers |
 | --- | --- |
-| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Daniel Tschabold |
+| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Patrick Schmid, Daniel Tschabold |

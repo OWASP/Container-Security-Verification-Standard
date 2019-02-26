@@ -26,3 +26,4 @@ The following requirements are to be evaluated based on a regular execution cycl
 | **12.8** | Verify that containers are balanced across the cluster based on the defined strategy. | | ✓ | ✓ | 1.0 |
 | **12.9** | Verify that all services can recover from failures of nodes and individual containers. | | ✓ | ✓ | 1.0 |
 | **12.10** | Verify that backups can be restored for all services in the event of a total failure. | ✓ | ✓ | ✓ | 1.0 |
+| **12.11** | Verify that _Docker Security Bench_ runs regularly and passes. | | ✓ | ✓ | 1.0 |
