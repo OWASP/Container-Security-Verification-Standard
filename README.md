@@ -1,3 +1,5 @@
+**Important Note:** We're currently in the process of moving this project over here and there are still some references to Redguard (the company which initially published the CSVS). We'll fully "OWASP-ize" the project very soon.
+
 # Container Security Verification Standard
 
 Welcome to the Container Security Verification Standard (CSVS) version 1.0. The CSVS is a community-effort to establish a framework of security requirements and controls that focus on normalizing the functional and non-functional security controls required when designing, developing and testing container-based solutions with a focus on Docker.
