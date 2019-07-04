@@ -17,7 +17,7 @@ We're always looking for people who are willing to review and extend the CSVS. I
 ## FAQ
 
 1. **The document looks similar to the OWASP Application Security Verification Standard. How is it related?**
-  We love the work done by OWASP and indeed the overall structure and e.g. the scripts to export the CSVS to other formats is comming from the ASVS.
+  We love the work done by OWASP and indeed the overall structure and e.g. the scripts to export the CSVS to other formats is coming from the ASVS.
 2. **If it's somewhat related to the OWASP ASVS project why not make the CSVS an OWASP project too?**
   That's exactly what we plan to do. Once we've gathered some feedback and have a first version we're looking forward to donate the CSVS in full to OWASP.
 3. **Topic XYZ is missing. Why?**
