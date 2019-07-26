@@ -9,5 +9,5 @@ if ! command_exists docker; then
     exit;
 fi
 
-docker build -t redguard/pandoc .
-docker run -it --rm -v "$(pwd)":/app redguard/pandoc
+docker build -t owasp/csvs-pandoc .
+docker run -it --rm -v "$(pwd)":/app owasp/csvs-pandoc
