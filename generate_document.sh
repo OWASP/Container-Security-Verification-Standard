@@ -69,7 +69,7 @@ generate "en"
 #generate "fr"
 
 # German
-# generate "de"
+generate "de"
 
 # Hebrew
 #generate "heb"
