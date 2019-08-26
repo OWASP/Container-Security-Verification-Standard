@@ -1,4 +1,4 @@
-# Frontispiece
+# Vorwort
 
 ## Über den Standard
 
@@ -8,11 +8,11 @@ Der Container Security Verification Standard ist eine Liste von Sicherheitsanfor
 
 ![license](../images/license.png)
 
-Copyright © 2019 Redguard AG. Dieses Dokument steht unter der Creative Commons Namensnennung-Weitergabe unter gleichen Bedingungen 4.0-Lizenz. Für jede Wiederverwendung oder Weitergabe müssen Sie anderen die Lizenzbestimmungen für dieses Werk mitteilen.
-                              
+Copyright © 2019 OWASP Foundation. Dieses Dokument steht unter der Creative Commons Attribution ShareAlike 4.0 Lizenz. Für jede Wiederverwendung oder Weitergabe müssen Sie anderen die Lizenzbestimmungen für dieses Werk mitteilen.
+
 Der zum Erstellen des CSVS-Dokuments und der CSVS-Struktur verwendete Code basiert auf dem OWASP-ASVS-Projekt.
 
-## Contribution
+## Mitarbeit
 
 Wenn Sie innerhalb des Standards Probleme finden, die behoben werden sollten:
 
@@ -24,8 +24,14 @@ Wenn Sie innerhalb des Standards Probleme finden, die behoben werden sollten:
 * Übersetzungsprobleme - Wenn der Wortlaut eines Steuerelements so ist, dass es schwierig oder unmöglich ist, es in Ihrer Sprache auszudrücken, lassen Sie es uns bitte wissen. Wenn es nicht auf Spanisch oder Thailändisch funktioniert, funktioniert es wahrscheinlich auch nicht auf Englisch.
 * Übersetzungsangebote - lassen Sie es uns bitte wissen, damit wir Sie zu Leuten weiterleiten können, die bereits an Ihrer Sprache arbeiten.
 
-Bitte melden Sie ein Problem hier an: https://github.com/redguard/CSVS/issues
+Bitte melden Sie ein Problem hier an: https://github.com/OWASP/Container-Security-Verification-Standard/issues
 
-| Lead Authors | Contributors & Reviewers |
-| --- | --- |
-| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Patrick Schmid, Daniel Tschabold |
+| Lead Authors | Contributors & Reviewers | Übersetzer |
+| --- | --- | --- |
+| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Patrick Schmid, Daniel Tschabold | Stephan Kaps (Deutsch) |
+
+<br><br><br>
+
+Ein spezieller Dank für das Sponsoring des Projekts geht an:
+
+[![logo](../images/redguard-logo.png)](https://www.redguard.ch/)

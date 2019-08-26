@@ -28,9 +28,9 @@ Please log all issues at https://github.com/OWASP/Container-Security-Verificatio
 
 ## Contributors
 
-| Lead Authors | Contributors & Reviewers |
-| --- | --- |
-| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Patrick Schmid, Daniel Tschabold |
+| Lead Authors | Contributors & Reviewers | Translators |
+| --- | --- | --- |
+| Sven Vetsch | Alexander Hermann, Dominik Nufer, Dominique Meier, Patrick Schmid, Daniel Tschabold | Stephan Kaps (German) |
 
 <br><br><br>
 

@@ -1,4 +1,4 @@
-# Preface
+# Übersicht
 
 Willkommen beim Container Security Verification Standard (CSVS), Version 1.0. Bei CSVS handelt es sich um eine Gemeinschaftsmaßnahme zur Festlegung eines Rahmens von Sicherheitsanforderungen und -kontrollen, die sich auf die Normalisierung der funktionalen und nicht funktionalen Sicherheitskontrollen konzentrieren, die beim Entwerfen, Entwickeln und Testen containergestützter Lösungen mit Schwerpunkt auf Docker erforderlich sind.
 
