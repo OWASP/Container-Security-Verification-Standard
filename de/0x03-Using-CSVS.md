@@ -1,26 +1,27 @@
 # Verwendung des CSVS
 
-CSVS hat zwei Hauptziele:
+Der CSVS hat zwei Hauptziele:
+
 * Unterstützung von Organisationen bei der Entwicklung und Wartung sicherer Container und Containerinfrastrukturen.
-* Ermöglichen Sie Sicherheitsdiensten, Anbietern von Sicherheitstools und Verbrauchern, ihre Anforderungen und Angebote abzustimmen.
+* Schaffen eines einheitliches Verständnisses zwischen Sicherheitsdienstleistern, Anbietern von Sicherheitstools und Anwendern.
 
 ## Sicherheitsüberprüfungsstufen für Container
 
-Der Container-Sicherheitsüberprüfungsstandard definiert drei Sicherheitsüberprüfungsstufen, wobei jede Stufe in der Tiefe zunimmt.
+Der CSVS definiert drei Sicherheitsüberprüfungsstufen, wobei mit jeder Stufe die Sicherheitsanforderungen erhöht werden.
 
-* CSVS Level 1 ist für alle Containerprojekte gedacht.
-* CSVS Level 2 ist für Containerprojekte gedacht, die sich mit vertraulichen Daten oder Geschäftslogik befassen, die zusätzlichen Schutz erfordern.
-* CSVS Level 3 ist für die kritischsten Containerprojekte gedacht, die hochwertige Transaktionen durchführen, vertrauliche persönliche oder medizinische Daten enthalten, oder für alle Container, die ein Höchstmaß an Vertrauen erfordern.
+* CSVS Level 1 ist grundsätzlich für alle Containerprojekte gedacht.
+* CSVS Level 2 ist für Containerprojekte gedacht, die mit vertraulichen Daten oder Geschäftslogik in Kontakt kommen und entsprechend zusätzlichen Schutz erfordern.
+* CSVS Level 3 ist für die kritischsten Containerprojekte gedacht, die hoch sensitive Transaktionen durchführen, vertrauliche persönliche oder medizinische Daten enthalten, oder für alle Container, die grundsätzlich ein Höchstmaß an Vertrauen erfordern.
 
-Jede CSVS-Ebene enthält eine Liste der Sicherheitsanforderungen. Jede dieser Anforderungen kann auch sicherheitsspezifischen Features und Funktionen zugeordnet werden, die in die Container oder die zugrunde liegende Infrastruktur integriert werden müssen.
+Jede Stufe enthält eine Liste von Sicherheitsanforderungen. Jede dieser Anforderungen kann auch sicherheitsspezifischen Features und Funktionen zugeordnet werden, die in die Container oder die zugrunde liegende Infrastruktur integriert werden müssen.
 
 ![csvs-levels](../images/csvs-levels.png)
 
-Figure 1 - Container Security Verification Standard levels
+Bild 1 - Container Security Verification Standard Sicherheitsüberprüfungsstufen
 
-## Verwendung dieses Standards
+## Verwendung des Standards
 
-Eine der besten Möglichkeiten, den Container Security Verification Standard zu verwenden, besteht darin, ihn als Entwurf zu verwenden, um eine Sicherheitscheckliste zu erstellen, die für Ihr Projekt, Ihre Plattform oder Ihre Organisation spezifisch ist. Das Anpassen des CSVS an Ihre Anwendungsfälle erhöht den Fokus auf die Sicherheitsanforderungen, die für Ihre Projekte und Umgebungen am wichtigsten sind.
+Eine der besten Möglichkeiten, den Container Security Verification Standard zu verwenden, besteht darin, ihn als Vorlage zu verwenden, um eine Sicherheitscheckliste zu erstellen, die für Ihr Projekt, Ihre Plattform oder Ihre Organisation spezifisch angepasst wird. Das Anpassen des CSVS an Ihre Anwendungsfälle erhöht den Fokus auf die Sicherheitsanforderungen, die für Ihre Projekte und Umgebungen am relevantesten sind.
 
 ### Level 1: Opportunistisch
 

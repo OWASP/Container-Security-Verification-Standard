@@ -10,21 +10,21 @@ Der Container Security Verification Standard ist eine Liste von Sicherheitsanfor
 
 Copyright © 2019 OWASP Foundation. Dieses Dokument steht unter der Creative Commons Attribution ShareAlike 4.0 Lizenz. Für jede Wiederverwendung oder Weitergabe müssen Sie anderen die Lizenzbestimmungen für dieses Werk mitteilen.
 
-Der zum Erstellen des CSVS-Dokuments und der CSVS-Struktur verwendete Code basiert auf dem OWASP-ASVS-Projekt.
+Der zum Erstellen des CSVS-Dokuments und der CSVS-Struktur verwendete Code basiert auf dem OWASP ASVS Projekt.
 
 ## Mitarbeit
 
 Wenn Sie innerhalb des Standards Probleme finden, die behoben werden sollten:
 
-* Design des Standards.
+* Aufbau des Standards.
 * Fehlende Kontrollen.
 * Ineffektive oder veraltete Kontrollen.
 * Unklare Formulierungen, Rechtschreibung, Grammatikprobleme.
 * Formatierungsprobleme.
-* Übersetzungsprobleme - Wenn der Wortlaut eines Steuerelements so ist, dass es schwierig oder unmöglich ist, es in Ihrer Sprache auszudrücken, lassen Sie es uns bitte wissen. Wenn es nicht auf Spanisch oder Thailändisch funktioniert, funktioniert es wahrscheinlich auch nicht auf Englisch.
-* Übersetzungsangebote - lassen Sie es uns bitte wissen, damit wir Sie zu Leuten weiterleiten können, die bereits an Ihrer Sprache arbeiten.
+* Übersetzungsprobleme - Wenn der Wortlaut einer Anforderung in Ihrer Sprache schwer verständlich ist, lassen Sie es uns bitte wissen. Wenn es nicht auf Spanisch oder Thailändisch funktioniert, funktioniert es wahrscheinlich auch nicht auf Englisch.
+* Übersetzungsangebote - lassen Sie es uns bitte wissen, damit wir Sie mit Leuten verbinden können, die eventuell bereits an Ihrer Sprache arbeiten.
 
-Bitte melden Sie ein Problem hier an: https://github.com/OWASP/Container-Security-Verification-Standard/issues
+Bitte melden Sie Probleme unter https://github.com/OWASP/Container-Security-Verification-Standard/issues
 
 | Lead Authors | Contributors & Reviewers | Übersetzer |
 | --- | --- | --- |
