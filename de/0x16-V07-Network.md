@@ -1,4 +1,4 @@
-# V7: Network
+# V7: Netzwerk
 
 ## Sicherheitsziele
 

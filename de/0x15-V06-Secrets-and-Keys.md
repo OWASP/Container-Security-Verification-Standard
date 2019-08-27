@@ -1,4 +1,4 @@
-# V6: Secrets and Keys
+# V6: Secrets und Kryptografische Schlüssel
 
 ## Sicherheitsziele
 

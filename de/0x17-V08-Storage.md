@@ -1,4 +1,4 @@
-# V8: Storage
+# V8: Datenspeicher
 
 ## Sicherheitsziele
 

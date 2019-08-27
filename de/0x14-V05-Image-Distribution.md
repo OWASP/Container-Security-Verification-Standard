@@ -1,4 +1,4 @@
-# V5: Image Distribution
+# V5: Image Verteilung
 
 ## Sicherheitsziele
 
