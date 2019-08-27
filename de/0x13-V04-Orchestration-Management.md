@@ -1,6 +1,6 @@
 # V4: Orchestration Management
 
-## Control Objective
+## Sicherheitsziele
 
 Sollten Ihre container-basierten Lösungen über eine bestimmte Anzahl von Knoten und Containern hinauswachsen, wird ein Orchestrator benötigt. Der Orchestrator unterstützt Sie beim Verwalten und Administrieren der Lösung und überwacht was passiert. Da der Orchestrator ein so mächtiges zentrales Element in einer Containerinfrastruktur ist, wirkt sich die Sicherheitsstufe des Orchestrators direkt auf alle anderen Aspekte Ihrer Infrastruktur aus.
 Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anforderungen erfüllt:
@@ -9,7 +9,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Der Orchestrator ist gehärtet.
 * Die Interaktion mit dem Orchestrator ist größtenteils automatisiert, um menschliche Fehler zu vermeiden.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

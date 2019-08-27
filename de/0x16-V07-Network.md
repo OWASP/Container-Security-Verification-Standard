@@ -1,6 +1,6 @@
 # V7: Network
 
-## Control Objective
+## Sicherheitsziele
 
 Fast alle modernen Anwendungen und Dienste sind nicht monolithisch, sondern bestehen aus mehreren Komponenten, die über Netzwerkverbindungen miteinander interagieren. Das Sichern von Netzwerken ist eine eigene Sicherheitsdisziplin, es gibt jedoch einige Aspekte, die sich auf Containertechnologien auswirken können, und wo sie die Sicherheit bei der Verwendung von Netzwerken verbessern können.
 
@@ -10,7 +10,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Deaktivieren Sie nicht benötigte Funktionen und wenden Sie Einschränkungen an.
 * Verschlüsselung erzwingen, wenn Daten über Netzwerke übertragen werden.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

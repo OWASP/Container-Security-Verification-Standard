@@ -1,6 +1,6 @@
 # V11: Disaster Recovery
 
-## Control Objective
+## Sicherheitsziele
 
 Wenn etwas schief geht, ist es wichtig, dass das System so schnell wie möglich wieder verfügbar ist, ohne die Sicherheit zu beeinträchtigen. In dieser Kategorie werden Anforderungen beschrieben, mit denen Sie sicherstellen können, dass Ihre Notfallwiederherstellung wie erwartet funktioniert und die Ausfallzeiten kurz sind.
 
@@ -10,7 +10,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Wiederherstellungsschritte sind automatisiert.
 * Selbstheilungskräfte werden eingesetzt.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

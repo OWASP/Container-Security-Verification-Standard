@@ -1,16 +1,16 @@
 # V6: Secrets and Keys
 
-## Control Objective
+## Sicherheitsziele
 
 Produktionssysteme verwenden normalerweise Geheimnisse und kryptografische Schlüssel. Diese können zu Konfigurationszwecken verwendet werden und enthalten Benutzernamen und Kennwörter oder ermöglichen den Schutz von Informationen durch kryptografische Mittel. In diesem Abschnitt wird festgelegt, wie mit diesen vertraulichen Informationen umgegangen werden soll.
 
 Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anforderungen erfüllt:
 
 * Schützen Sie sensible Informationen.
-* Überprüfen Sie den sicheren Umgang mit kryptografischem Material.
+* ÜberStellen Sie sicher den sicheren Umgang mit kryptografischem Material.
 * Rotieren Sie kryptografische Schlüssel regelmäßig.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

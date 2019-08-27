@@ -1,6 +1,6 @@
 # V9:	Logging & Monitoring
 
-## Control Objective
+## Sicherheitsziele
 
 Die Sicherung von Containern und Infrastruktur ist eine Sache, aber es ist nicht weniger wichtig, dass Sie wissen, wann etwas schief geht. Durch Protokollierung und Überwachung erhalten Sie Einblicke in den aktuellen Stand Ihrer Lösung und können entsprechend reagieren.
 
@@ -9,7 +9,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Haben Sie eine zentrale Protokollierungs- und Überwachungsinstanz.
 * Überwachen Sie alle Ihre Komponenten.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

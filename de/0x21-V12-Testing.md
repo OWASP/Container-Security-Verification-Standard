@@ -1,6 +1,6 @@
 # V12: Testing
 
-## Control Objective
+## Sicherheitsziele
 
 Die Technologie entwickelt sich immer weiter und verändert sich ständig auf unerwartete Weise. Basierend darauf ist die Absicherung einer container-basierten Lösung nicht nur ein einmaliger Aufwand, sondern es sollten regelmäßig verschiedene Überprüfungen und Validierungen durchgeführt werden.
 
@@ -10,7 +10,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung regelmäßig die folgen
 * Stellen Sie sicher, dass die Sicherheitseinstellungen wirksam werden.
 * Dokumentation des aktuellen Zustands der container-basierten Lösung.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 Die folgenden Anforderungen sind anhand eines regelmäßigen Ausführungszyklus zu bewerten. Es wird empfohlen, den Zyklus auf drei Monate oder kürzer zu halten.
 

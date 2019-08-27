@@ -1,6 +1,6 @@
 # V3: Containers
 
-## Control Objective
+## Sicherheitsziele
 
 Die Hauptkomponente von container-basierten Lösungen sind die Container selbst. Sie enthalten nicht nur Dienste und Anwendungslogik, sondern interagieren auch mit anderen Systemen und Containern, um Daten auszutauschen, die häufig vertraulich sind und genauen Schutz erfordern.
 Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden high-level Anforderungen erfüllt:
@@ -9,7 +9,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden high-leve
 * Härten Sie die Services im Container und minimieren Sie die Angriffsfläche.
 * Nutzen Sie die Sicherheitsfunktionen der verwendeten Containertechnologie.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |
@@ -27,4 +27,4 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden high-leve
 | **3.12** | Stellen Sie sicher, dass Remoteverwaltungsdienste wie SSH oder RDP deaktiviert sind oder gar nicht erst in Containern installiert sind. | ✓ | ✓ | ✓ | 1.0 |
 | **3.13** | Stellen Sie sicher, dass offen gelegte Dienste wie _etcd_ entweder nur für vollständig vertrauenswürdige Systeme verfügbar sind oder eine Authentifizierung erfordern. | ✓ | ✓ | ✓ | 1.0 |
 | **3.14** | Stellen Sie sicher, dass die Anzahl der zulässigen Prozesse in einem Container genau definiert und auf diesen Wert begrenzt ist, indem Sie "--pids-limit" verwenden. | | | ✓ | 1.0 |
-| **3.15** | Stellen Sie sicher, dass der Docker-Socket nicht in einem Container gemountet ist, es sei denn, er wird zur Überwachung oder Verwaltung verwendet. Wenn der Zugriff auf den Docker-Socket erforderlich ist, prüfen Sie, ob der schreibgeschützte Zugriff ausreicht, und begrenzen Sie den Zugriff auf den Container entsprechend. | ✓ | ✓ | ✓ | 1.0 |
+| **3.15** | Stellen Sie sicher, dass der Docker-Socket nicht in einem Container gemountet ist, es sei denn, er wird zur Überwachung oder Verwaltung verwendet. Wenn der Zugriff auf den Docker-Socket erforderlich ist, Stellen Sie sicher, ob der schreibgeschützte Zugriff ausreicht, und begrenzen Sie den Zugriff auf den Container entsprechend. | ✓ | ✓ | ✓ | 1.0 |

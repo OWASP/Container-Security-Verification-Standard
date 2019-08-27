@@ -1,6 +1,6 @@
 # V10: Integration
 
-## Control Objective
+## Sicherheitsziele
 
 Container-basierte Lösungen sind normalerweise nicht eigenständig, sondern lassen sich in eine Vielzahl unterschiedlicher Systeme integrieren. Solche Systeme können IAM-Lösungen, CI / CD-Pipelines oder vorhandene Netzwerkumgebungen sein. Jede Interaktion stellt auch eine potenzielle Bedrohung für eine container-basierte Lösung dar und umgekehrt.
 
@@ -10,7 +10,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Platzieren Sie Informationen in einem zentralen Inventar- und Änderungsmanagementsystem.
 * Nutzung der vorhandenen Netzwerkinfrastruktur.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

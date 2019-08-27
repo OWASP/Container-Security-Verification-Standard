@@ -1,6 +1,6 @@
 # V8: Storage
 
-## Control Objective
+## Sicherheitsziele
 
 Da Container nur vorübergehend existieren, ist es wichtig, ein zuverlässiges und sicheres Speicher-Backend für persistente Daten bereitzustellen. Nicht nur die Verfügbarkeit gespeicherter Daten ist von entscheidender Bedeutung, sondern auch die Integrität und die Maßnahmen zur Zugriffskontrolle.
 
@@ -9,7 +9,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Wählen Sie einen guten Speichertreiber und konfigurieren Sie ihn richtig.
 * Vergewissern Sie sich, dass die Daten nicht lokal auf den Knoten gespeichert sind, um die Persistenz zu gewährleisten.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

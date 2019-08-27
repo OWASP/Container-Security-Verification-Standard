@@ -1,6 +1,6 @@
-# V2: Infrastructure
+# V2: Infrastruktur
 
-## Control Objective
+## Sicherheitsziele
 
 Die zugrunde liegende Infrastruktur kann für verschiedene Konfigurationen sehr unterschiedlich sein, Sie ist jedoch die Grundlage für alles und muss daher den oberen Schichten die Möglichkeit bieten, das geforderte Sicherheitsniveau zu erreichen.
 
@@ -9,7 +9,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * Stellen Sie sicher, dass die Infrastruktur ausreichende Ressourcen bereitstellt.
 * Härten Sie die Basisinfrastruktur einschließlich der Containerplattform.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |

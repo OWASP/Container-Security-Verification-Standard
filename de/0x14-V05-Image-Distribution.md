@@ -1,6 +1,6 @@
 # V5: Image Distribution
 
-## Control Objective
+## Sicherheitsziele
 
 Damit Container ausgeführt werden können, müssen zunächst Images erstellt werden. Images definieren, was in einem Container ausgeführt wird und beispielsweise welche Version eines Softwarepakets verwendet wird. Als Basis für eine möglicherweise große Menge von Containern ist die Sicherheit jedes Images für den sicheren Betrieb einer Umgebung von entscheidender Bedeutung.
 
@@ -10,7 +10,7 @@ Stellen Sie sicher, dass eine geprüfte Containerlösung die folgenden hohen Anf
 * In Images werden keine sensiblen Daten gespeichert.
 * Images werden auf gefährdete Komponenten überprüft.
 
-## Security Verification Requirements
+## Sicherheitsvorgaben
 
 | # | Beschreibung | L1 | L2 | L3 | Seit |
 | --- | --- | --- | --- | -- | -- |
